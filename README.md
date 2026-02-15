@@ -1,10 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
-# About
+## About
 
 ![Lizzie Todd](link-to-image-on-github-or-web)
 
-**b. 1986, HK.**  
+ 
 I’m **Lizzie**, a Product Designer living in **Cincinnati, OH**.
 
 I have **5+ years experience** in UI/UX design, working with startups launching their first product all the way to a fast-growing FinTech company with over **1M+ users**.
@@ -19,9 +19,7 @@ I think products and experiences should **aid users in their goals**, not stand 
 
 ![Lizzie and her mini dachshund Daisy](link-to-image-on-github-or-web)
 
-## Personal Interests
-
-When I’m not wireframing, I enjoy:
+## When I’m not wireframing, I enjoy:
 
 - Reading manga  
 - Hanging out with my mini dachshund, *Daisy*  
@@ -38,16 +36,6 @@ When I’m not wireframing, I enjoy:
 
 📧 **Email:** lizzietodd.design@gmail.com  
 🔗 **LinkedIn:** [linkedin.com](https://www.linkedin.com)<!--
-**lizzietdesign/lizzietdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
